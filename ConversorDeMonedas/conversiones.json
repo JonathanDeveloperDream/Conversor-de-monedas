@@ -1,0 +1,14 @@
+[
+  {
+    "codigoBase": "USD",
+    "codigoObjetivo": "ARS",
+    "tasaDeCoversion": 906.0,
+    "resultadoDeCoversion": 90600.0
+  },
+  {
+    "codigoBase": "ARS",
+    "codigoObjetivo": "USD",
+    "tasaDeCoversion": 0.001104,
+    "resultadoDeCoversion": 0.2208
+  }
+]
